@@ -8,7 +8,6 @@ public class GitDemo {
 		Student student = new Student(1,"pavan");
 		
 		System.out.println("This project is to learn Git");
-		System.out.println("hlell");
 	}
 
 }
